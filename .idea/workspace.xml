@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd056986-b94a-4eef-8e33-3ea2b23c57df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ElectricityBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestElectricityBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestLeapYear.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FkjkyLdtLtd2Agi5zvYcv8Kkld" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Desktop/university/ปี2/Lecture_211&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.TestElectricityBill">
+    <configuration name="TestElectricityBill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blackbox-6410450290" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestElectricityBill" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestElectricityBill.testDecimalCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blackbox-6410450290" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestElectricityBill" />
+      <option name="METHOD_NAME" value="testDecimalCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestElectricityBill.testLessThan150UnitCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blackbox-6410450290" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestElectricityBill" />
+      <option name="METHOD_NAME" value="testLessThan150UnitCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestElectricityBill.testMinusDecimalCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blackbox-6410450290" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestElectricityBill" />
+      <option name="METHOD_NAME" value="testMinusDecimalCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLeapYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blackbox-6410450290" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestLeapYear" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestElectricityBill" />
+        <item itemvalue="JUnit.TestLeapYear" />
+        <item itemvalue="JUnit.TestElectricityBill.testLessThan150UnitCase" />
+        <item itemvalue="JUnit.TestElectricityBill.testMinusDecimalCase" />
+        <item itemvalue="JUnit.TestElectricityBill.testDecimalCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd056986-b94a-4eef-8e33-3ea2b23c57df" name="Changes" comment="" />
+      <created>1665043123851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665043123851</updated>
+      <workItem from="1665043126292" duration="176000" />
+      <workItem from="1665043314208" duration="12846000" />
+      <workItem from="1665135771729" duration="2207000" />
+      <workItem from="1665236565302" duration="182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/blackbox_6410450290$TestElectricityBill_testMinusCase.ic" NAME="TestElectricityBill.testMinusCase Coverage Results" MODIFIED="1665061340533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/blackbox_6410450290$TestLeapYear_testDivide2Case.ic" NAME="TestLeapYear.testDivide2Case Coverage Results" MODIFIED="1665058686620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/blackbox_6410450290$TestLeapYear_testDivide3Case.ic" NAME="TestLeapYear.testDivide3Case Coverage Results" MODIFIED="1665058904443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/blackbox_6410450290$TestElectricityBill_testLessThan150UnitCase.ic" NAME="TestElectricityBill.testLessThan150UnitCase Coverage Results" MODIFIED="1665125804624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/blackbox_6410450290$TestElectricityBill_testNullCase.ic" NAME="TestElectricityBill.testNullCase Coverage Results" MODIFIED="1665060976260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/blackbox_6410450290$TestElectricityBill_testUnitField.ic" NAME="TestElectricityBill.testUnitField Coverage Results" MODIFIED="1665060385060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/blackbox_6410450290$TestElectricityBill.ic" NAME="TestElectricityBill Coverage Results" MODIFIED="1665125822837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/blackbox_6410450290$TestElectricityBill_test150To400UnitCase.ic" NAME="TestElectricityBill.test150To400UnitCase Coverage Results" MODIFIED="1665057990134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/blackbox_6410450290$TestLeapYear.ic" NAME="TestLeapYear Coverage Results" MODIFIED="1665125843627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/blackbox_6410450290$TestElectricityBill_testMinusDecimalCase.ic" NAME="TestElectricityBill.testMinusDecimalCase Coverage Results" MODIFIED="1665125505813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/blackbox_6410450290$TestElectricityBill_testConstructor.ic" NAME="TestElectricityBill.testConstructor Coverage Results" MODIFIED="1665060309362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/blackbox_6410450290$TestElectricityBill_testDecimalCase.ic" NAME="TestElectricityBill.testDecimalCase Coverage Results" MODIFIED="1665125377127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/blackbox_6410450290$TestLeapYear_testDivide4Case.ic" NAME="TestLeapYear.testDivide4Case Coverage Results" MODIFIED="1665059089750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/blackbox_6410450290$TestLeapYear_testConstructor.ic" NAME="TestLeapYear.testConstructor Coverage Results" MODIFIED="1665061074478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
